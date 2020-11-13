@@ -1,6 +1,6 @@
 {
   "name": "eyp-solr",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Jordi Prats",
   "summary": "partial solr installation, moved to eyp-bitban due to customer requirements",
   "license": "Apache-2.0",
